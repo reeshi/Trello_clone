@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Trello_clone/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.15092592592592594" />
+        <entry key="..\:/Trello_clone/app/src/main/res/drawable/ic_black_color_back_24dp.xml" value="0.15092592592592594" />
+        <entry key="..\:/Trello_clone/app/src/main/res/drawable/ic_nav_user.xml" value="0.17685185185185184" />
+        <entry key="..\:/Trello_clone/app/src/main/res/drawable/ic_white_color_back_24dp.xml" value="0.13703703703703704" />
+        <entry key="..\:/Trello_clone/app/src/main/res/drawable/shape_button_rounded.xml" value="0.22" />
+        <entry key="..\:/Trello_clone/app/src/main/res/drawable/white_border_shape_button_rounded.xml" value="0.1" />
+        <entry key="..\:/Trello_clone/app/src/main/res/layout/activity_intro.xml" value="0.25" />
+        <entry key="..\:/Trello_clone/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Trello_clone/app/src/main/res/layout/activity_my_profile.xml" value="0.1" />
+        <entry key="..\:/Trello_clone/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/Trello_clone/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
+        <entry key="..\:/Trello_clone/app/src/main/res/layout/activity_splash.xml" value="0.1762917933130699" />
+        <entry key="..\:/Trello_clone/app/src/main/res/layout/app_bar_main.xml" value="0.25" />
+        <entry key="..\:/Trello_clone/app/src/main/res/layout/dialog_progress.xml" value="0.33" />
+        <entry key="..\:/Trello_clone/app/src/main/res/layout/main_content.xml" value="0.18" />
+        <entry key="..\:/Trello_clone/app/src/main/res/layout/nav_header_main.xml" value="0.67" />
+        <entry key="..\:/Trello_clone/app/src/main/res/menu/activity_main_drawer.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
